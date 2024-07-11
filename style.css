@@ -1,0 +1,36 @@
+ h1{
+    align-items: center;
+ }
+ 
+ 
+ #d1{
+    background-color: aqua;
+    font-display: bold;
+    
+}
+#tr1{
+    background-color: blue;
+    color: white;
+     text-align: center;"
+}
+#a1{
+    font-weight: bold;
+    color: white;
+    font-size:larger;
+     text-decoration: none;"
+}
+.u{ 
+    font-weight: bold;
+}
+#index{
+     font-size: x-large;
+     font-style: initial;
+}
+.table{
+    font-size: xx-large;
+     font-style: initial;
+     box-sizing: border-box;
+}
+       
+
+   
